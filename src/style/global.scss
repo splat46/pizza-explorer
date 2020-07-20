@@ -1,0 +1,12 @@
+// src/style/global.scss
+
+@import "./config";
+@import "~bootstrap";
+
+$black: #000;
+$white: #fff;
+$primary: #fd5c63;
+
+p:last-child {
+  margin-bottom: 0;
+}
